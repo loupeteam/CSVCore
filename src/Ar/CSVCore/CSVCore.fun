@@ -1,3 +1,12 @@
+(*
+ * File: CSVCore.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of CSVCore, licensed under the MIT License.
+ * 
+ *)
+
 (*Predef*)
 
 FUNCTION csvInitPredef : DINT (*Initializes a Predef*)

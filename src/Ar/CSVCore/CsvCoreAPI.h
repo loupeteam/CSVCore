@@ -1,3 +1,12 @@
+/*
+ * File: CsvCoreAPI.h
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of CSVCore, licensed under the MIT License.
+ * 
+ */
+
 /********************************************************
 *	NAME	: CsvCoreAPI.h
 *	FUNCTION: Headerfile for CSV Core

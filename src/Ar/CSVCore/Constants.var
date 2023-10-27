@@ -1,3 +1,12 @@
+(*
+ * File: Constants.var
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of CSVCore, licensed under the MIT License.
+ * 
+ *)
+
 VAR CONSTANT
 	CSV_CORE_DEF_MAX_COLUMNS : USINT := 10;
 	CSV_CORE_DEF_MAI_COLUMNS : USINT := CSV_CORE_DEF_MAX_COLUMNS-1;

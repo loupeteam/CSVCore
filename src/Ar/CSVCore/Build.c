@@ -1,3 +1,12 @@
+/*
+ * File: Build.c
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of CSVCore, licensed under the MIT License.
+ * 
+ */
+
 //unsigned long bur_heap_size=0xFFFFF;
 
 #include "string.h"

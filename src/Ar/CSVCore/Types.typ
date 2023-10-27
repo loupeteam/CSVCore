@@ -1,3 +1,12 @@
+(*
+ * File: Types.typ
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of CSVCore, licensed under the MIT License.
+ * 
+ *)
+
 
 TYPE
 	CSVCoreCfg_typ : 	STRUCT 
