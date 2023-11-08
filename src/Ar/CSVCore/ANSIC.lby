@@ -5,9 +5,6 @@
     <File Description="Exported functions and function blocks">CSVCore.fun</File>
     <File Description="Exported data types">Types.typ</File>
     <File Description="Exported constants">Constants.var</File>
-    <File>LICENSE.txt</File>
-    <File>README.md</File>
-    <File>RevisionHistory.txt</File>
     <File>Parse.c</File>
     <File>Build.c</File>
     <File>Advanced.c</File>
