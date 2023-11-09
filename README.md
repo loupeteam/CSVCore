@@ -1,19 +1,21 @@
 # Info
+Library is provided by Loupe  
+https://loupe.team  
+info@loupe.team  
+1-800-240-7042  
 
-Library is provided by Loupe
+# Description
+CSV core is designed to give core functionality to parsing and building csv files.
 
-https://loupe.team
+# Use Cases
+-Anytime CSV data needs to be read or written to  
+-As the core functionality for CSV wrapper libraries  
 
-info@loupe.team
+For more documentation and examples, see https://loupeteam.github.io/LoupeDocs/libraries/csvcore.html
 
-1-800-240-7042
+# Installation
+To install using the Loupe Package Manager (LPM), in an initialized Automation Studio project directory run `lpm install csvcore`. For more information about LPM, see https://loupeteam.github.io/LoupeDocs/tools/lpm.html
 
-# Change log
+## Licensing
 
- - 0.01.2 - Fixed issue where comments on first line would be missed
- - 0.01.1 - Update dependency versions
- - 0.01.0 - Initial release
-
-# Documentation
-
-Documentation for this and other Loupe libraries can be found at https://loupeteam.github.io/Sandbox/libraries.html
+This project is licensed under the [MIT License](LICENSE).
